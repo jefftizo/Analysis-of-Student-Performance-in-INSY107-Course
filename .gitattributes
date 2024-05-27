@@ -1,5 +1,9 @@
-# Set Python files to be recognized as Python language
-*.py linguist-language=Python
+*.python linguist-detectable=true
+*.ipynb linguist-detectable=true
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
 
-# Set Jupyter Notebook files to be recognized as Jupyter Notebook language
-*.ipynb linguist-language=Jupyter Notebook
+
+
+
