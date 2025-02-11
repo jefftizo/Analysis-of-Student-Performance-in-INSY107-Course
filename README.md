@@ -34,3 +34,8 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
 
 ## Analysis Report
 **Gender Differences in Academic Performance:** Female students slightly outperformed male students across all assessments-
+   * Assignments: 7.10 (F) vs. 7.02 (M)
+   * Tests: 6.40 (F) vs. 6.46 (M)
+   * Mid-Semester Exam: 10.10 (F) vs. 10.00 (M)
+   * Final Exam: 32.76 (F) vs. 32.09 (M)
+   * However, the differences are marginal and not highly significant.
