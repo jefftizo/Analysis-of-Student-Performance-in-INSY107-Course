@@ -32,5 +32,5 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
 ## Grading Scale
 ![grading-scale.PNG](img/grading-scale.PNG)
 
-## Results
-I will update soon....
+## Analysis Report
+**Gender Differences in Academic Performance:** Female students slightly outperformed male students across all assessments-
