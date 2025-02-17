@@ -49,3 +49,8 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
    * Student grades showed an upward trend from 2020 to 2023.
    * Assignment scores improved significantly (6.97 in 2020, 8.06 in 2023).
    * Final exam scores also increased (28.49 in 2020, 35.90 in 2023).
+
+**Evolution of Overall Performance (2020-2023)**
+   * The best year in terms of performance was 2023.
+   * 2021 showed a dip in performance, especially in assignments.
+   * The subject saw a general upward trend in student achievement.
