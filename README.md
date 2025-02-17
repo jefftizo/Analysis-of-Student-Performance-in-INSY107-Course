@@ -78,3 +78,11 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
 **Correlation Between Attendance and Assignment Completion**
    * Positive correlation (0.31) between attendance and assignments.
    * Students who attended more classes completed more assignments.
+
+**Conclusion**
+   * Performance has improved from 2020 to 2023.
+   * Attendance positively influences grades, but some students had poor attendance.
+   * Assignment performance is a strong predictor of final exam scores.
+   * Gender differences are minimal, though female students slightly outperformed male students.
+   * 2021 was an outlier year with a drop in performance.
+     
