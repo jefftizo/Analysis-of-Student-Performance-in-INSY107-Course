@@ -44,3 +44,8 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
    * The lowest performance was in 2020 (Final Exam Avg: 28.49).
    * The highest performance was in 2023 (Final Exam Avg: 35.90).
    * Performance generally improved over the years, except for a drop in 2021.
+
+**Improvement in Grades Over Four Years**
+   * Student grades showed an upward trend from 2020 to 2023.
+   * Assignment scores improved significantly (6.97 in 2020, 8.06 in 2023).
+   * Final exam scores also increased (28.49 in 2020, 35.90 in 2023).
