@@ -58,3 +58,7 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
 **Correlation Between Gender and Academic Performance**
    * Gender differences in performance were minor.
    * No strong correlation between gender and performance.
+
+**Impact of Attendance on Final Grades**
+   * Attendance had a positive correlation with final grades (0.27).
+   * Students with higher attendance tended to perform better.
