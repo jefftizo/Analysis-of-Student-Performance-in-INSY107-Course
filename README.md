@@ -66,3 +66,7 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
 **Trends in Student Attendance**
    * Average attendance was 3.87 out of 5.
    * Some students had zero attendance, which might have impacted their performance.
+
+**Correlation Between Assignments and Final Exam Scores**
+   * A moderate positive correlation (0.39) was observed.
+   * Students who performed well in assignments tended to score better in the final exam.
