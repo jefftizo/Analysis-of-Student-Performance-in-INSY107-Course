@@ -39,3 +39,5 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
    * Mid-Semester Exam: 10.10 (F) vs. 10.00 (M)
    * Final Exam: 32.76 (F) vs. 32.09 (M)
    * However, the differences are marginal and not highly significant.
+
+**Variation in Performance Across Academic Years**
