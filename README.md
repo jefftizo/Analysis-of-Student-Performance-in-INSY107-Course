@@ -62,3 +62,7 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
 **Impact of Attendance on Final Grades**
    * Attendance had a positive correlation with final grades (0.27).
    * Students with higher attendance tended to perform better.
+
+**Trends in Student Attendance**
+   * Average attendance was 3.87 out of 5.
+   * Some students had zero attendance, which might have impacted their performance.
