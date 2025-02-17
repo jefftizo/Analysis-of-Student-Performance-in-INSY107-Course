@@ -74,3 +74,7 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
 **Exceptional or Subpar Performance Years**
    * 2020 had the lowest performance across all metrics.
    * 2023 had the highest performance in assignments and final exams.
+
+**Correlation Between Attendance and Assignment Completion**
+   * Positive correlation (0.31) between attendance and assignments.
+   * Students who attended more classes completed more assignments.
