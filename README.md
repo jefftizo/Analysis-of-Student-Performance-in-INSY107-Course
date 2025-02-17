@@ -70,3 +70,7 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
 **Correlation Between Assignments and Final Exam Scores**
    * A moderate positive correlation (0.39) was observed.
    * Students who performed well in assignments tended to score better in the final exam.
+
+**Exceptional or Subpar Performance Years**
+   * 2020 had the lowest performance across all metrics.
+   * 2023 had the highest performance in assignments and final exams.
