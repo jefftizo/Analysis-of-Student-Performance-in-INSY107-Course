@@ -54,3 +54,7 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
    * The best year in terms of performance was 2023.
    * 2021 showed a dip in performance, especially in assignments.
    * The subject saw a general upward trend in student achievement.
+
+**Correlation Between Gender and Academic Performance**
+   * Gender differences in performance were minor.
+   * No strong correlation between gender and performance.
