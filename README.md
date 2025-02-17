@@ -41,3 +41,6 @@ By addressing these key questions, we aim to gain a comprehensive understanding 
    * However, the differences are marginal and not highly significant.
 
 **Variation in Performance Across Academic Years**
+   * The lowest performance was in 2020 (Final Exam Avg: 28.49).
+   * The highest performance was in 2023 (Final Exam Avg: 35.90).
+   * Performance generally improved over the years, except for a drop in 2021.
